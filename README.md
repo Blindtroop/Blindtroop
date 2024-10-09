@@ -1,4 +1,3 @@
-![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <h1 align="center">Hi 👋, I'm Lance Kaluhi</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
